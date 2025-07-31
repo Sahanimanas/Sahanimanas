@@ -1,5 +1,5 @@
 # 💫 About Me:
--> I’m currently pursuing B.Tech in Computer Science and Engineering specialization in IoT<br> -> Full Stack web developer<br>-> Looking for Web Development Work or Internships<br>-> Fast Lerner<br>
+-> Pursuing B.Tech in Computer Science and Engineering specialization in IoT<br> -> Full Stack web developer<br> -> IoT developer<br>
 
 
 ## 🌐 Socials:
