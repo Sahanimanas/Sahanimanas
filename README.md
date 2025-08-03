@@ -1,5 +1,5 @@
 # 💫 About Me:
--> Pursuing B.Tech in Computer Science and Engineering specialization in IoT<br> -> Full Stack web developer<br> -> IoT developer<br>
+ -> Full Stack web developer<br> -> IoT developer<br>
 
 
 ## 🌐 Socials:
