@@ -1,5 +1,5 @@
 # 💫 About Me:
- -> Full Stack web developer<br> -> IoT developer<br>
+ -> Full Stack web developer
 
 
 ## 🌐 Socials:
